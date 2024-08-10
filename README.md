@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheMetaSetter
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning for a Bachelor of Information Technology in Ho Chi Minh University of Science.
+- 👀 I'm interested in Data Science and Machine Learning and am enthusiastic about applying these fields in a business environment to create real value.
+- 🌱 I’m currently pursuing a Bachelor of Information Technology at Ho Chi Minh University of Science.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me -->
 
