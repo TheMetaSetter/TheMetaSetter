@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [TheMetaSetter](https://github.com/TheMetaSetter/)
 - 👀 I'm interested in Mathematics, Data Science, and Machine Learning, and I am enthusiastic about applying these fields in a business environment to create real value.
-- 🌱 I’m a sophomore pursuing a Bachelor of Information Technology at Ho Chi Minh University of Science.
+- 🌱 I’m a senior pursuing a Bachelor of Information Technology at Ho Chi Minh University of Science.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me -->
 
